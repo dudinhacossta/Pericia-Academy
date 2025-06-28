@@ -7,7 +7,7 @@
 
 | Nome                 | GitHub                                      | LinkedIn                                     |
 |----------------------|---------------------------------------------|----------------------------------------------|
-| Maria Eduarda      | [github.com/dudinhacossta | [[linkedin.com/]](https://www.linkedin.com/in/maria-e-bb0233248/) |
+| Maria Eduarda      | [[GitHub]](https://github.com/dudinhacossta/Pericia-Academy/) | [[linkedin.com/]](https://www.linkedin.com/in/maria-e-bb0233248/) |
 > *Quer fazer parte da equipe da ForensicX?* Entre em contato!
 
 ---
