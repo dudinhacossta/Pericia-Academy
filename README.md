@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Perícia Academy - ForensicX
 
-*Perícia Academy* é uma plataforma web desenvolvida para a venda e gerenciamento de cursos online com foco em *investigação digital, **segurança da informação* e áreas correlatas. O projeto foi desenvolvido pela equipe da *ForensicX*, utilizando HTML, CSS, PHP e Bootstrap.
+*Perícia Academy* é uma plataforma web desenvolvida para a venda e gerenciamento de cursos online com foco em *investigação digital, segurança da informação e áreas correlatas. O projeto foi desenvolvido pela equipe da ForensicX, utilizando HTML, CSS, PHP e Bootstrap.
 
 ---
 ## 👨‍💻 Mural dos Desenvolvedores
