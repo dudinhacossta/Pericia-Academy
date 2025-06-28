@@ -45,7 +45,6 @@
 - Verifique se não há conflitos de porta com o Apache ou MySQL no XAMPP.
 
 ---
----
 ## 👨‍💻 Mural dos Desenvolvedores
 
 | Nome                 | GitHub                                      | LinkedIn                                     |
