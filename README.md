@@ -2,6 +2,49 @@
 
 *Perícia Academy* é uma plataforma web desenvolvida para a venda e gerenciamento de cursos online com foco em *investigação digital, segurança da informação e áreas correlatas. O projeto foi desenvolvido pela equipe da ForensicX, utilizando HTML, CSS, PHP e Bootstrap.
 
+# 🕵️ Instruções de Instalação
+
+## ⚙️ Requisitos
+- [XAMPP](https://www.apachefriends.org/index.html) (com Apache e MySQL)
+- [Visual Studio Code](https://code.visualstudio.com/) (recomendado)
+
+---
+
+## 🚀 Como Executar o Sistema
+
+1. **Baixe o projeto:**
+   - Faça o download do arquivo `pericia.zip` para sua máquina.
+
+2. **Extraia o conteúdo:**
+   - Extraia os arquivos e abra a pasta do projeto na sua IDE (como o VS Code).
+
+3. **Configure o ambiente local:**
+   - Copie a pasta extraída para dentro de:
+     ```
+     C:\xampp\htdocs\
+     ```
+
+4. **Importe o banco de dados:**
+   - Abra o XAMPP e inicie os serviços **Apache** e **MySQL**.
+   - Acesse o **phpMyAdmin** pelo navegador:
+     ```
+     http://localhost/phpmyadmin
+     ```
+   - Importe o arquivo `.sql` fornecido com o projeto para criar as tabelas necessárias.
+
+5. **Acesse o sistema:**
+   - No navegador, digite:
+     ```
+     http://localhost/pericia
+     ```
+
+---
+
+## 💡 Observações
+- Certifique-se de que a pasta do projeto esteja corretamente posicionada dentro de `htdocs`.
+- Verifique se não há conflitos de porta com o Apache ou MySQL no XAMPP.
+
+---
 ---
 ## 👨‍💻 Mural dos Desenvolvedores
 
